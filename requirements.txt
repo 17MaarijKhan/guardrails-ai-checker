@@ -7,3 +7,4 @@ python-dotenv
 scikit-learn
 guardrails-ai==0.10.2
 alt-profanity-check==1.9.0
+sqlparse
